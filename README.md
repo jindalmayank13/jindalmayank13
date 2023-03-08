@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank Jindal</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align=“right” width="500" src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindalmayank13&label=Profile%20views&color=0e75b6&style=flat" alt="jindalmayank13" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jindalmayank13" alt="jindalmayank13" /></a> </p>
 
 - 🌱 I’m currently learning **ml and blockchain**
 
@@ -10,7 +12,7 @@
 - 💬 Ask me about **code n life**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mayank-jindal-2459b3202/**
--
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-jindal-2459b3202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-jindal-2459b3202/" height="30" width="40" /></a>
